@@ -85,3 +85,8 @@ azure-divvy-project/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+## Pipeline Execution
+
+The screenshot below shows the successful execution of the ETL pipeline, processing 821,398 Divvy trip records from Azure Blob Storage.
+
+![Successful ETL Pipeline Execution](images/etl_pipeline_success.png)
